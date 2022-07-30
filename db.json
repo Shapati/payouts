@@ -6,7 +6,8 @@
         "name": "Akerele David Damilola ",
         "amount": "36700",
         "status": "Paid",
-        "account": "2136410353"
+        "account": "2136410353",
+        "bank" : "First bank"
       },
       {
         "id": "674zz74747474747474eee747474",
@@ -14,7 +15,8 @@
         "name": "Ayandiran Daniel ",
         "amount": "20500",
         "status": "Pending",
-        "account": "3140791773"
+        "account": "3140791773",
+        "bank" : "Zenith bank"
       },
       {
         "id": "674747vx47qqrcrq474747474747474",
@@ -22,7 +24,8 @@
         "name": "Ayandiran   Nifemi ",
         "amount": "45600",
         "status": "Paid",
-        "account": "2136410353"
+        "account": "2136410353",
+        "bank" : "UBA"
       },
       {
         "id": "6747bn47474747rrr47474747474",
@@ -30,7 +33,8 @@
         "name": "Odesola dayo  ",
         "amount": "45500",
         "status": "Pending",
-        "account": "2136410444"
+        "account": "2136410444",
+        "bank" : "Wema bank"
       },
       {
         "id": "6l47474747qqrehbehq474747474747474",
@@ -38,7 +42,8 @@
         "name": "Fagbenja Tolani ",
         "amount": "665600",
         "status": "Paid",
-        "account": "2136410353"
+        "account": "2136410353",
+        "bank" : "First bank"
       },
       {
         "id": "p7474hhqqrcrq474747474747474",
@@ -46,7 +51,8 @@
         "name": "Ayandiran   Samuel ",
         "amount": "45600",
         "status": "Paid",
-        "account": "2136410353"
+        "account": "2136410353",
+        "bank" : "First bank"
       },
       {
         "id": "rr747474747qqrcrq474747474747474",
@@ -54,7 +60,8 @@
         "name": "Hotwealth   Akhigbe ",
         "amount": "23",
         "status": "Pending",
-        "account": "2136410353"
+        "account": "2136410353",
+        "bank" : "Wema bank"
       }
 
     ]
