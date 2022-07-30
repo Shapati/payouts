@@ -5,32 +5,56 @@
         "dateandtime": "03:32 pm",
         "name": "Akerele David Damilola ",
         "amount": "36700",
-        "status": "paid",
+        "status": "Paid",
         "account": "2136410353"
       },
       {
-        "id": "6747474747474747474eee747474",
+        "id": "674zz74747474747474eee747474",
         "dateandtime": "03:32 pm",
         "name": "Ayandiran Daniel ",
         "amount": "20500",
-        "status": "pending",
+        "status": "Pending",
         "account": "3140791773"
       },
       {
-        "id": "6747474747qqrcrq474747474747474",
+        "id": "674747vx47qqrcrq474747474747474",
         "dateandtime": "09:27 pm",
         "name": "Ayandiran   Nifemi ",
         "amount": "45600",
-        "status": "paid",
+        "status": "Paid",
         "account": "2136410353"
       },
       {
-        "id": "67474747474747rrr47474747474",
+        "id": "6747bn47474747rrr47474747474",
         "dateandtime": "06:52 pm",
         "name": "Odesola dayo  ",
         "amount": "45500",
-        "status": "pending",
+        "status": "Pending",
         "account": "2136410444"
+      },
+      {
+        "id": "6l47474747qqrehbehq474747474747474",
+        "dateandtime": "09:27 pm",
+        "name": "Fagbenja Tolani ",
+        "amount": "665600",
+        "status": "Paid",
+        "account": "2136410353"
+      },
+      {
+        "id": "p7474hhqqrcrq474747474747474",
+        "dateandtime": "09:27 pm",
+        "name": "Ayandiran   Samuel ",
+        "amount": "45600",
+        "status": "Paid",
+        "account": "2136410353"
+      },
+      {
+        "id": "rr747474747qqrcrq474747474747474",
+        "dateandtime": "09:27 pm",
+        "name": "Hotwealth   Akhigbe ",
+        "amount": "23",
+        "status": "Pending",
+        "account": "2136410353"
       }
 
     ]
